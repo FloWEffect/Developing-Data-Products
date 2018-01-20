@@ -4,4 +4,4 @@ The server and ui files are stored in this repo and show that code that is used 
 
 For a link to the app:
 
-<a href=https://floweffect.shinyapps.io/Week4Assignment/></a>
+https://floweffect.shinyapps.io/Week4Assignment/
