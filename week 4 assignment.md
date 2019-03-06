@@ -1,6 +1,6 @@
 Developing Data Products: Course Project
 ========================================================
-author: Florian Dollak  
+ 
 date: 18.01.2018
 autosize: true
 width: 1600
